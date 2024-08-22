@@ -15,7 +15,7 @@ For given lattice parameters, it calculates:
 
 ## Note
 - The GUI is more user-friendly if your computer is using light mode.
-- The GUI will run in the terminal but will collapse if you have an empty cell. However, it won't collapse if you run it in Spyder. I don't want to fix that bug :ghost:
+- The GUI will run in the terminal but will collapse if you calculate with empty cells. However, it won't collapse if you run it in Spyder. I don't want to fix that bug :ghost:
 
 ## Remark
 My code is like a three-legged horse, it is not a fully functioning horse, but it can run :smirk_cat:
