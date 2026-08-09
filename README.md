@@ -11,7 +11,7 @@ For given lattice parameters, it calculates:
 ![Screenshot](Screenshot.png)
 
 ## Install for Windows
-- Download the _.exe_ file
+- Download the _.exe_ file from **Releases** on the right side of the screen 
 ## Install for others
 - Download the GUI folder
 - Run _WeirdKittyZ Calculator.py_ 
