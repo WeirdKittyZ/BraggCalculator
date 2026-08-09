@@ -14,7 +14,7 @@ For given lattice parameters, it calculates:
 - Download the _.exe_ file
 ## Install for others
 - Download the GUI folder
-- Run _Zi_cal_ver1p23.py_ 
+- Run _WeirdKittyZ Calculator.py_ 
 
 ## Note
 - The GUI is more user-friendly if your computer is using light mode.
