@@ -3,7 +3,7 @@
 This is a Python GUI containing a few calculators:
 - Photon energy to wavelength conversion
 - Common X-ray tube wavelength
-- 
+  
 For given lattice parameters, it calculates:
 - The angle between two hkl
 - d-spacing and two theta for a given hkl
